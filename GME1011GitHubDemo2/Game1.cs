@@ -42,7 +42,7 @@ namespace GME1011GitHubDemo2
 
         protected override void Draw(GameTime gameTime)
         {
-            GraphicsDevice.Clear(Color.CornflowerBlue);
+            GraphicsDevice.Clear(Color.Firebrick);
 
             // TODO: Add your drawing code here
 
